@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+h2{
+text-align: center;
+
+}
+
+body{
+    
+}
+.nav{
+    background: orangered;
+    margin-center: -38px;
+    overflow: hidden;
+}
+.nav a{
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    font size: 1.5em;
+    display: block;
+    float: center;
+}
+.nav a:hover{
+    background: blue;
+    color: black;
+}
