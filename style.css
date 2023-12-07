@@ -21,7 +21,7 @@ body{
     color: #000;
     font size: 1.5em;
     display: block;
-    float: center;
+    float: right;
 }
 .nav a:hover{
     background: blue;
